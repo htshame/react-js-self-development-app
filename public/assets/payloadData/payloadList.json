@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sol Hudson",
+    "organization": "Guns N'Roses",
+    "position" : "Guitar player"
+  },
+  {
+    "id": 2,
+    "name": "James Bond",
+    "organization": "MI 6",
+    "position" : "Secret service agent"
+  },
+  {
+    "id": 3,
+    "name": "Duff McKagan",
+    "organization": "Guns N'Roses",
+    "position" : "Bass player"
+  }
+]

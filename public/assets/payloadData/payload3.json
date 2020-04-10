@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "firstName": "Duff",
+  "lastName": "McKagan",
+  "email": "duff@example.com",
+  "city": "Detroit",
+  "country": "USA",
+  "organization": "Guns N'Roses",
+  "position": "Bass player",
+  "additionalInfo": "Keeps Rockin'"
+}

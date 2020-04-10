@@ -1,0 +1,57 @@
+.app {
+    text-align: center;
+}
+
+.app-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.app-title {
+    font-size: 2em;
+    color: #8a3f2d;
+    margin: 10px;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 1s linear;
+    height: 80px;
+    filter: invert(60%) sepia(80%) saturate(500%) hue-rotate(361deg) brightness(118%) contrast(119%);
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.panel-info > .panel-heading {
+    background-color: #ffa565;
+}
+
+.btn-info {
+    background-color: #8a3f2d;
+    border-color: black;
+}
+
+.btn-info:hover {
+    background-color: #4a0202;
+    border-color: black;
+}
+
+.panel-title {
+    color: #6c2914;
+}
+
+.panel-info {
+    border-color: #7d1c1c;
+}

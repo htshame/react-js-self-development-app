@@ -1,0 +1,11 @@
+.margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #62331f;
+}

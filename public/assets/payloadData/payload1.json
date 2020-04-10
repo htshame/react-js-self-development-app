@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "firstName": "Sol",
+  "lastName": "Hudson",
+  "email": "sol@example.com",
+  "city": "Los Angeles",
+  "country": "USA",
+  "organization": "Guns N'Roses",
+  "position": "Guitar player",
+  "additionalInfo": "Keeps Rockin'"
+}

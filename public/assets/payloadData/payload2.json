@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "firstName": "James",
+  "lastName": "Bond",
+  "email": "james@example.com",
+  "city": "London",
+  "country": "United Kingdom",
+  "organization": "MI 6",
+  "position": "Secret service agent",
+  "additionalInfo": "Only lives twice"
+}
